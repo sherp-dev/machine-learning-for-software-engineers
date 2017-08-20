@@ -1,4 +1,4 @@
-# Top-down learning path: Machine Learning for Software Engineers
+﻿# Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -29,15 +29,15 @@ Please, feel free to make any contributions you feel will make it better.
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Follow me](#follow-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Motivation](#motivation)
+- [What is it?](#what-is-it) (DONE)
+- [Why use it?](#why-use-it) (DONE)
+- [How to use it](#how-to-use-it) (DONE)
+- [Follow me](#follow-me) (DONE)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough) (DONE)
+- [About Video Resources](#about-video-resources) (DONE)
+- [Prerequisite Knowledge](#prerequisite-knowledge) 
+- [The Daily Plan](#the-daily-plan) 
+- [Motivation](#motivation) 
 - [Machine learning overview](#machine-learning-overview)
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
@@ -122,8 +122,8 @@ from public sources and replacing the online course videos over time. I like usi
 
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
