@@ -35,9 +35,9 @@ Please, feel free to make any contributions you feel will make it better.
 - [Follow me](#follow-me) (DONE)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough) (DONE)
 - [About Video Resources](#about-video-resources) (DONE)
-- [Prerequisite Knowledge](#prerequisite-knowledge) 
-- [The Daily Plan](#the-daily-plan) 
-- [Motivation](#motivation) 
+- [Prerequisite Knowledge](#prerequisite-knowledge) (DONE)
+- [The Daily Plan](#the-daily-plan) (DONE)
+- [Motivation](#motivation) (DONE)
 - [Machine learning overview](#machine-learning-overview)
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
@@ -125,7 +125,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## The Daily Plan
 
@@ -134,7 +134,7 @@ Each subject does not require a whole day to be able to understand it fully, and
 Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
 
 # Motivation
-- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
